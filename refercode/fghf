@@ -1,5 +1,5 @@
 // Base Module structure
-start: module
+start: module                   #############
 
 module: (doc_tag? element (element_with_doc | element)*)?
       | doc_tag (element_with_doc (element_with_doc | element)*)?
