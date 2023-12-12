@@ -1,0 +1,66 @@
+1. Base Module structure
+2. Import/Include Statements
+3. Architypes
+4. Architype bodies
+5. Enumerations
+6. Enumeration Bodies
+7. Abilities
+8. Global variables
+9. Free code
+10. Inline python
+11. Tests
+12. Implementations
+13. Codeblocks and Statements
+14. If statements
+15. While statements
+16. For statements
+17. Try statements
+18. Match statements
+19. Match patterns
+20. Match litteral patterns
+21. Match singleton patterns
+22. Match capture patterns (e.g. 'case _:')
+23. Match sequence patterns
+24. Match mapping patterns
+25. Match class patterns
+26. Context managers
+27. Global and nonlocal statements
+28. Data spatial typed context blocks
+29. Return statements
+30. Yield statements
+31. Raise statements
+32. Assert statements
+33. Delete statements
+34. Report statements
+35. Control statements
+36. Data spatail Walker statements
+37. Visit statements
+38. Revisit statements
+39. Disengage statements
+40. Ignore statements
+41. Assignments
+42. Expressions
+43. Lambda expressions
+44. Pipe expressions
+45. Pipe back expressions
+46. Elvis expressions
+47. Bitwise expressions
+48. Logical and compare expressions
+49. Arithmetic expressions
+50. Connect expressions
+51. Atomic expressions
+52. Atomic pipe back expressions
+53. Unpack expressions
+54. References (unused)
+55. Walrus assignments
+56. Data spatial calls
+57. Subscripted and dotted expressions
+58. Function calls
+59. Atom
+60. Collections
+61. Comprehensions
+62. Collection literals
+63. Data Spatial References
+64. Special Comprehensions
+65. Names and references
+66. f-string tokens
