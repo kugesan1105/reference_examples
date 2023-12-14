@@ -1,38 +1,38 @@
-1. Base Module structure
-2. Import/Include Statements
-3. Architypes
+1. Base Module structure                  
+2. Import/Include Statements           
+3. Architypes         
 4. Architype bodies
-5. Enumerations
-6. Enumeration Bodies
+5. Enumerations                 ███████▒▒▒ 70%
+6. Enumeration Bodies           ███████▒▒▒ 70%
 7. Abilities
-8. Global variables
-9. Free code
-10. Inline python
+8. Global variables          
+9. Free code 
+10. Inline python    ███████▒▒▒ 70%
 11. Tests
 12. Implementations
-13. Codeblocks and Statements
+13. Codeblocks and Statements         
 14. If statements
 15. While statements
 16. For statements
 17. Try statements
-18. Match statements
-19. Match patterns
-20. Match litteral patterns
-21. Match singleton patterns
-22. Match capture patterns (e.g. 'case _:')
-23. Match sequence patterns
-24. Match mapping patterns
-25. Match class patterns
-26. Context managers
-27. Global and nonlocal statements
-28. Data spatial typed context blocks
-29. Return statements
-30. Yield statements
-31. Raise statements
-32. Assert statements
-33. Delete statements
-34. Report statements
-35. Control statements
+18. Match statements            ███████▒▒▒ 70%
+19. Match patterns              ███████▒▒▒ 70%
+20. Match litteral patterns        ███████▒▒▒ 70%
+21. Match singleton patterns            ███████▒▒▒ 70%
+22. Match capture patterns (e.g. 'case _:')         ███████▒▒▒ 70%
+23. Match sequence patterns              ███████▒▒▒ 70%
+24. Match mapping patterns                 ███████▒▒▒ 70%
+25. Match class patterns             ███████▒▒▒ 70%
+26. Context managers                  ███████▒▒▒ 70%
+27. Global and nonlocal statements              ███████▒▒▒ 70%
+28. Data spatial typed context blocks               ███████▒▒▒ 70%
+29. Return statements                  ███████▒▒▒ 70%
+30. Yield statements                    ███████▒▒▒ 70%
+31. Raise statements                         ███████▒▒▒ 70%
+32. Assert statements                     ███████▒▒▒ 70%
+33. Delete statements                  ███████▒▒▒ 70%
+34. Report statements                    ███████▒▒▒ 70%
+35. Control statements                  ███████▒▒▒ 70%
 36. Data spatail Walker statements
 37. Visit statements
 38. Revisit statements
