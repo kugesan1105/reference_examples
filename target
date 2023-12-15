@@ -5,8 +5,8 @@
 5. Enumerations                 ███████▒▒▒ 70%
 6. Enumeration Bodies           ███████▒▒▒ 70%
 7. Abilities
-8. Global variables          
-9. Free code 
+8. Global variables  ███████▒▒▒ 70%        
+9. Free code ███████▒▒▒ 70%
 10. Inline python    ███████▒▒▒ 70%
 11. Tests  
 12. Implementations   
@@ -14,7 +14,7 @@
 14. If statements      ███████▒▒▒ 70%
 15. While statements   ███████▒▒▒ 70%
 16. For statements   ███████▒▒▒ 70%
-17. Try statements
+17. Try statements   ███████▒▒▒ 70%
 18. Match statements            ███████▒▒▒ 70%
 19. Match patterns              ███████▒▒▒ 70%
 20. Match litteral patterns        ███████▒▒▒ 70%
@@ -63,4 +63,4 @@
 63. Data Spatial References         🔴 
 64. Special Comprehensions
 65. Names and references
-66. f-string tokens
+66. f-string tokens      
