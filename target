@@ -33,11 +33,11 @@
 33. Delete statements                  ███████▒▒▒ 70%
 34. Report statements                    ███████▒▒▒ 70%
 35. Control statements                  ███████▒▒▒ 70%
-36. Data spatail Walker statements    🔴
-37. Visit statements                  🔴
-38. Revisit statements                🔴
-39. Disengage statements              🔴
-40. Ignore statements                 🔴
+36. Data spatail Walker statements    📊
+37. Visit statements                  📊
+38. Revisit statements                📊
+39. Disengage statements              📊
+40. Ignore statements                 📊
 41. Assignments   ███████▒▒▒ 70%
 42. Expressions    ███████▒▒▒ 70%
 43. Lambda expressions   ███████▒▒▒ 70%
@@ -52,15 +52,15 @@
 52. Atomic pipe back expressions
 53. Unpack expressions
 54. References (unused)
-55. Walrus assignments         🔴
-56. Data spatial calls         🔴
-57. Subscripted and dotted expressions
+55. Walrus assignments         📊
+56. Data spatial calls         📊
+57. Subscripted and dotted expressions  📊
 58. Function calls
 59. Atom
 60. Collections   ███████▒▒▒ 70%
 61. Comprehensions   ███████▒▒▒ 70%
 62. Collection literals   ███████▒▒▒ 70%
-63. Data Spatial References         🔴 
+63. Data Spatial References         📊 
 64. Special Comprehensions
 65. Names and references
 66. f-string tokens       ███████▒▒▒ 70%
