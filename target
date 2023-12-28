@@ -1,15 +1,15 @@
 1. Base Module structure        ███████▒▒▒ 70%           
 2. Import/Include Statements         ███████▒▒▒ 70%   
-3. Architypes         
-4. Architype bodies
+3. Architypes         ███████▒▒▒ 70%   
+4. Architype bodies     ███████▒▒▒ 70%  
 5. Enumerations                 ███████▒▒▒ 70%
 6. Enumeration Bodies           ███████▒▒▒ 70%
-7. Abilities
+7. Abilities      ███████▒▒▒ 70%  
 8. Global variables  ███████▒▒▒ 70%        
 9. Free code ███████▒▒▒ 70%
 10. Inline python    ███████▒▒▒ 70%
 11. Tests         ███████▒▒▒ 70% 
-12. Implementations   
+12. Implementations     
 13. Codeblocks and Statements   ███████▒▒▒ 70%       
 14. If statements      ███████▒▒▒ 70%
 15. While statements   ███████▒▒▒ 70%
